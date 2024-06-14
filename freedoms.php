@@ -1,9 +1,9 @@
 <?php
 /**
- * Network Freedoms administration panel.
+ * User Dashboard Freedoms administration panel.
  *
  * @package WordPress
- * @subpackage Multisite
+ * @subpackage Administration
  * @since 3.4.0
  */
 

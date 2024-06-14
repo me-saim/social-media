@@ -1,9 +1,9 @@
 <?php
 /**
- * Network Credits administration panel.
+ * User Dashboard Credits administration panel.
  *
  * @package WordPress
- * @subpackage Multisite
+ * @subpackage Administration
  * @since 3.4.0
  */
 

@@ -1,9 +1,9 @@
 <?php
 /**
- * Edit user network administration panel.
+ * Edit user administration panel.
  *
  * @package WordPress
- * @subpackage Multisite
+ * @subpackage Administration
  * @since 3.1.0
  */
 

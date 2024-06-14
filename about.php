@@ -1,9 +1,9 @@
 <?php
 /**
- * Network About administration panel.
+ * User Dashboard About administration panel.
  *
  * @package WordPress
- * @subpackage Multisite
+ * @subpackage Administration
  * @since 3.4.0
  */
 

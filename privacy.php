@@ -1,9 +1,9 @@
 <?php
 /**
- * Network Privacy administration panel.
+ * User Dashboard Privacy administration panel.
  *
  * @package WordPress
- * @subpackage Multisite
+ * @subpackage Administration
  * @since 4.9.0
  */
 

@@ -1,9 +1,9 @@
 <?php
 /**
- * User profile network administration panel.
+ * User Profile Administration Screen.
  *
  * @package WordPress
- * @subpackage Multisite
+ * @subpackage Administration
  * @since 3.1.0
  */
 
